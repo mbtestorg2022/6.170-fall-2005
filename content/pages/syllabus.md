@@ -38,11 +38,48 @@ Your responsibilities are to attend lectures, recitations and grading meetings, 
 
 To determine your grade, we will first compute a numerical value, based on your individual work on problem sets, your team work on the final project, and your quiz score. We will then rank all the students in the class, and delineate boundaries that correspond roughly to letter grades. We will then consider each student's work individually to check that the letter grade corresponds to our sense of the student's achievement, and may adjust the grade accordingly. This subjective evaluation is based on several factors, including participation in recitations and final project team meetings, and contributions to the online discussion forum.
 
-| Activities | Percentages |
-| --- | --- |
-| Problem sets | 45% |
-| Final project | 35% |
-| Quiz score | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz score
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 All team members in a project team will receive the same project grade. In order to have the best project experience, team up with students who have the same expectations and motivations as you do with respect to project and overall course grades.
 
